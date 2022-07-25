@@ -13,7 +13,8 @@
 	.textologo{ height: 40px; line-height: 40px}
 	.menuopciones { width: 100%; text-align: right; font-size: 15px}
 	.menuopciones li{ margin-right: 30px; display: inline-flex; text-align: left; height: 40px; line-height: 40px; }
-	.menuopciones li:hover{ color: #ef9c00; font-weight: bold; font-size: 15px; text-shadow: 1px 0 #ef9c00, 0 1px #ef9c00,
+	.menuopciones li a{ text-decoration: none; color: #1b3380 }
+	.menuopciones li a:hover{ color: #ef9c00; font-weight: bold; font-size: 15px; text-shadow: 1px 0 #ef9c00, 0 1px #ef9c00,
 1px 0 #ef9c00, 0 -1px #ef9c00} /* cambiar color del menu */
 	
 	.banner{ position: relative; text-align: center; }
